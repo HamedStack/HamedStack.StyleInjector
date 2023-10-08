@@ -1,7 +1,7 @@
 {
   "name": "@hamedstack/style-injector",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "./dist/style-injector.umd.cjs",
   "module": "./dist/style-injector.js",
